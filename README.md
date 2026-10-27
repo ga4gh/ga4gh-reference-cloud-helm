@@ -1,3 +1,5 @@
+**⚠️ This repository has moved.** The Helm chart now lives in [ga4gh/ga4gh-reference-cloud](https://github.com/ga4gh/ga4gh-reference-cloud/tree/develop/deploy/helm) under `deploy/helm/`. This repo is archived and read-only.
+
 # ga4gh-reference-cloud-helm
 Helm chart for the GA4GH Reference Cloud
 
